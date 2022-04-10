@@ -41,11 +41,11 @@ fn main() {
     //day5::puzzle2()
     //day6::puzzle1();
     //day6::puzzle2();
-    // day7::puzzle1();
-    // day7::puzzle2();
+    //day7::puzzle1();
+    //day7::puzzle2();
     
     //day8::puzzle1();
-    //TODO: day 8 part 2!
+    //day8::puzzle2();
 
     //day9::puzzle1();
     //TODO: day9 part 2!
